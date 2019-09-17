@@ -2,7 +2,7 @@
 
 
 ## Existing System:
-In the existing system, there is a lot of pater work; it is very time consuming and uneconomical as most of the works include manual processing. The records are difficult to store in a manual system, and it requires more manual labour work.
+In the existing system, there is a lot of paper work; it is very time consuming and uneconomical as most of the works include manual processing. The records are difficult to store in a manual system, and it requires more manual labour work.
 ## Proposed System: 
 In the proposed event management system, everything is web-based. This will immediately reduce the manual processing, thereby increasing the speed of event management process. There are various functions and modules in the system to perform various features. This overall increases management productivity, eliminate paper work, reduce manpower, and prove to be very economical in the long run.
 ## Features:
